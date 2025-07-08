@@ -1,0 +1,11 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705920
+- Invoice Number: INV-OO09537
+- Type: AR
+- Amount: 12650 INR
+- Invoice Date: 2025-06-20
+- Items:
+(Display Cable, 2, 800, Accessories, AmazonBasics)
+(Wireless Mouse, 2, 650, Accessories, Logitech)
+(27" 2K Monitor, 1, 9100, Display, LG)
+(Smartphone Stand, 1, 650, Accessories, Spigen)

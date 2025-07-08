@@ -1,0 +1,9 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705926
+- Invoice Number: INV-OO09543
+- Type: AR
+- Amount: 5300 INR
+- Invoice Date: 2025-06-26
+- Items:
+(Microphone, 1, 3800, Audio, Fifine)
+(Desk Lamp, 1, 1500, Furniture, Wipro)

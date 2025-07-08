@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705927
+- Invoice Number: INV-OO09544
+- Type: AR
+- Amount: 7300 INR
+- Invoice Date: 2025-06-27
+- Items:
+(Mechanical Keyboard, 1, 4500, Accessories, Corsair)
+(Display Cable, 2, 800, Accessories, AmazonBasics)
+(Laptop Cooling Pad, 1, 1200, Accessories, Deepcool)

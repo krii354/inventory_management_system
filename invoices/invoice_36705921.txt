@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705921
+- Invoice Number: INV-OO09538
+- Type: AR
+- Amount: 16300 INR
+- Invoice Date: 2025-06-21
+- Items:
+(HD Monitor, 1, 8000, Display, Samsung)
+(Microphone, 1, 3800, Audio, Fifine)
+(Mechanical Keyboard, 1, 4500, Accessories, Corsair)

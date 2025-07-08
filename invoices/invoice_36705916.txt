@@ -1,0 +1,11 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705916
+- Invoice Number: INV-OO09533
+- Type: AR
+- Amount: 13600 INR
+- Invoice Date: 2025-06-16
+- Items:
+(Wireless Mouse, 2, 650, Accessories, Logitech)
+(Compact Projector, 1, 10000, Display, ViewSonic)
+(Desk Lamp, 1, 1500, Furniture, Wipro)
+(Gaming Mousepad, 1, 800, Accessories, SteelSeries)

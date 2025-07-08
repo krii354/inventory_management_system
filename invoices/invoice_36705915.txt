@@ -1,0 +1,11 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705915
+- Invoice Number: INV-OO09532
+- Type: AR
+- Amount: 22100 INR
+- Invoice Date: 2025-06-15
+- Items:
+(Tablet, 1, 9900, Device, Lenovo)
+(Display Cable, 2, 800, Accessories, AmazonBasics)
+(27" 2K Monitor, 1, 9100, Display, LG)
+(Desk Lamp, 1, 1500, Furniture, Wipro)

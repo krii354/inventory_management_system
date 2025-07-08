@@ -1,0 +1,11 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705911
+- Invoice Number: INV-OO09528
+- Type: AR
+- Amount: 26800 INR
+- Invoice Date: 2025-06-11
+- Items:
+(Noise Cancelling Headphones, 1, 8500, Audio, Sony)
+(HD Monitor, 1, 8000, Display, Samsung)
+(Laptop Stand, 1, 1200, Accessories, AmazonBasics)
+(27" 2K Monitor, 1, 9100, Display, LG)

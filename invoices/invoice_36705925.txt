@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705925
+- Invoice Number: INV-OO09542
+- Type: AR
+- Amount: 13900 INR
+- Invoice Date: 2025-06-25
+- Items:
+(Ethernet Switch, 1, 2700, Networking, TP-Link)
+(Tablet, 1, 9900, Device, Lenovo)
+(Wireless Mouse, 2, 650, Accessories, Logitech)

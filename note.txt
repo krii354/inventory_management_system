@@ -1,0 +1,13 @@
+pip install pytesseract pillow
+
+https://github.com/tesseract-ocr/tesseract/releases/download/5.5.0/tesseract-ocr-w64-setup-5.5.0.20241111.exe
+
+
+https://chatgpt.com/share/684686d7-2d4c-8003-bde7-4851f8c9b299
+
+
+1. next step i want to do is to make a list of the similar vendor name in the inventory list 
+2. apply a filter to the table 
+3. if i get to see that same vendor have same item but different unit price the user can merge the things and add a new price to it 
+as the use do this the inventory gets updated on its own 
+is it a good idea !!

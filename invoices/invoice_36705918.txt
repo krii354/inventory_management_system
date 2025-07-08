@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705918
+- Invoice Number: INV-OO09535
+- Type: AR
+- Amount: 20800 INR
+- Invoice Date: 2025-06-18
+- Items:
+(Wireless Keyboard, 1, 3200, Accessories, Logitech)
+(Laser Printer, 1, 8500, Printing, HP)
+(27" 2K Monitor, 1, 9100, Display, LG)

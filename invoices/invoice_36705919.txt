@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705919
+- Invoice Number: INV-OO09536
+- Type: AR
+- Amount: 18900 INR
+- Invoice Date: 2025-06-19
+- Items:
+(Office Chair, 1, 6000, Furniture, GreenSoul)
+(Microphone, 1, 3800, Audio, Fifine)
+(27" 2K Monitor, 1, 9100, Display, LG)

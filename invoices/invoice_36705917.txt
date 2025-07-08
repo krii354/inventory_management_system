@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705917
+- Invoice Number: INV-OO09534
+- Type: AR
+- Amount: 11800 INR
+- Invoice Date: 2025-06-17
+- Items:
+(Ethernet Switch, 1, 2700, Networking, TP-Link)
+(Surge Protector, 2, 2950, Electrical, Belkin)
+(Bluetooth Speaker, 1, 3200, Audio, JBL)

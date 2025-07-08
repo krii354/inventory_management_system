@@ -1,0 +1,9 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705922
+- Invoice Number: INV-OO09539
+- Type: AR
+- Amount: 16000 INR
+- Invoice Date: 2025-06-22
+- Items:
+(27" 2K Monitor, 1, 9100, Display, LG)
+(External HDD 1TB, 1, 6900, Storage, WD)

@@ -1,0 +1,11 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705910
+- Invoice Number: INV-OO09527
+- Type: AR
+- Amount: 15800 INR
+- Invoice Date: 2025-06-10
+- Items:
+(Wireless Mouse, 2, 650, Accessories, Logitech)
+(Stylus Pen, 1, 2000, Accessories, Lenovo)
+(SSD 500GB, 1, 4500, Storage, Samsung)
+(HD Monitor, 1, 8000, Display, Samsung)

@@ -1,0 +1,9 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705928
+- Invoice Number: INV-OO09545
+- Type: AR
+- Amount: 5900 INR
+- Invoice Date: 2025-06-28
+- Items:
+(Ethernet Switch, 1, 2700, Networking, TP-Link)
+(Wireless Keyboard, 1, 3200, Accessories, Logitech)

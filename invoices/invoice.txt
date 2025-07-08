@@ -1,0 +1,10 @@
+🧾 Generated Invoice:
+- Invoice ID: 36705900
+- Invoice Number: INV-OO09526
+- Type: AR
+- Amount: 13000 INR
+- Invoice Date: 2025-05-31
+- Items:
+(Wireless Mouse, 2, 650, Accessories, Logitech)
+(Laptop Stand, 1, 1200, Accessories, AmazonBasics)
+(HD Monitor, 1, 8000, Display, Samsung)
